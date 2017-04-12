@@ -1,0 +1,39 @@
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	margin: 40px 20px 40px 20px;
+}
+h2 {
+	font-family: 'Dosis', sans-serif;
+}
+h3 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 1.8em;
+}
+h4 {
+	font-size: 1.5em;
+}
+br {
+	line-break: loose;
+}
+img.test {
+	max-width: 100%;
+	height: 175px;
+	margin-bottom: 20px;
+}
+.nostylelist {
+	list-style: none;
+	margin: 10px;
+}
+ul li {
+	list-style: none;
+}
+.autodetail {
+	font-size: 3em;
+}
+body {
+	color: ;
+}
+.detailpic {
+	height: auto;
+	max-width: 100%;
+}
