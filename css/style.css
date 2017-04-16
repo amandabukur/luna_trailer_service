@@ -7,9 +7,13 @@ h1, h2, h3, h4 {
 
 body {
 		font-family: 'Lato', sans-serif;
-    width: 960px;
-    margin: auto;
+        max-width: 1080px;
+        margin: auto;
 		padding-top: 70px;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 /* Site Navigation----------------------------------------------------------------*/
